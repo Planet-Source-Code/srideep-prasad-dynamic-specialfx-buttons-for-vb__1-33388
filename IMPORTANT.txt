@@ -1,0 +1,11 @@
+To Run The Demo - 
+1>Open the ZIP File and Unzip all files to some folder say, C:\YourFolder
+2>Open C:\YourFolder in Explorer and  rename the CoolButton.OBK file to CoolButton.OCX.
+3>Then select Start >> Run ; Type RegSvr32 C:\YourFolder\CoolButton.Ocx
+4>Then Open the Demo.vbp file in VB and run it !
+5>Please vote if you find the code useful !!!
+
+
+
+
+
